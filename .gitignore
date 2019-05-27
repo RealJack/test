@@ -1,2 +1,2 @@
 *.txt
--notice.txt
+!notice.txt
